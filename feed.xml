@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test</title>
+    <link href="https://jjnevis.com/ptest/feed.xml" rel="self" />
+    <link href="https://jjnevis.com/ptest" />
+    <updated>2026-09-09T23:13:30+01:00</updated>
+    <author>
+        <name>Jay</name>
+    </author>
+    <id>https://jjnevis.com/ptest</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Jay</name>
+        </author>
+        <link href="https://jjnevis.com/ptest/hello-world.html"/>
+        <id>https://jjnevis.com/ptest/hello-world.html</id>
+
+        <updated>2026-09-09T23:13:30+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is the first post of a test of Publii
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the first post of a test of Publii</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
